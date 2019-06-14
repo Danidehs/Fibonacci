@@ -1,2 +1,2 @@
 # Fibonacci
-Proyecto realizado en Java que utiliza el método de Fibonacci
+Proyecto realizado en Java con NetBeans que utiliza el método de Fibonacci
